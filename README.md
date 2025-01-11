@@ -3,3 +3,4 @@ BioinformaticsObjectives
 SetupGuide
 GenomicFeatures
 DependenciesList
+CodeExamples
