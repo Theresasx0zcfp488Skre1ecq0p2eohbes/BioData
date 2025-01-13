@@ -4,3 +4,4 @@ SetupGuide
 GenomicFeatures
 DependenciesList
 CodeExamples
+ConfigurationSettings
