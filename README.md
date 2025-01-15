@@ -5,3 +5,4 @@ GenomicFeatures
 DependenciesList
 CodeExamples
 ConfigurationSettings
+ContributionGuide
