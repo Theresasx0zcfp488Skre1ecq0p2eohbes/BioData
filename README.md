@@ -11,3 +11,4 @@ LicenseDetails
 BioinformaticsFAQ
 Changelog
 TestingInstructions
+GenomicPerformance
