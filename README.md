@@ -12,3 +12,4 @@ BioinformaticsFAQ
 Changelog
 TestingInstructions
 GenomicPerformance
+CommunityResources
